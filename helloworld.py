@@ -4,5 +4,5 @@ helloworld.py
 A program that says hello.
 """
 
-if ___name___ == '___main___':
-    print('Hello, Git world')
+if __name__ == '__main__':
+    print('Hello, Git world!')
